@@ -2,7 +2,7 @@
 
 Welcome to the Monkey Island Chatbot! This Streamlit app allows users to interact with various characters from the Monkey Island series, including Guybrush Threepwood, LeChuck, and Elaine Marley. The characters respond in their unique tones, making your experience fun and immersive.
 
-  ![Character Icons](assets/images/characters/Cannibals.png)
+  ![Character Icons](assets/images/image.png)
 
 ## Features
 
